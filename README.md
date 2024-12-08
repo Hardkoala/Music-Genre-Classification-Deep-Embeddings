@@ -25,7 +25,8 @@ For more information on how to use this dataset, please refer to the Kaggle page
 
 
 
-![Results](results.png)
+<img src="results.png" width="500" height="300"/>
+
 
 
 ## Contributing
