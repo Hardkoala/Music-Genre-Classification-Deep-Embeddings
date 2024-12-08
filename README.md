@@ -25,6 +25,9 @@ For more information on how to use this dataset, please refer to the Kaggle page
 
 
 
+![Results](results.png)
+
+
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome!
