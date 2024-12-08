@@ -13,14 +13,23 @@ This project focuses on classifying music genres using deep learning models. The
 
 ## Dataset
 
-Dataset
-This project uses the GTZAN Music Genre Dataset. The dataset consists of 1000 audio tracks categorized into 10 different genres. The audio files are in WAV format, with a duration of 30 seconds each.
 
-Genres included: blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, and rock.
-You can download the dataset manually and place it in the appropriate folder.
+
+The dataset used for this project is the **GTZAN Music Genre Dataset**, which is publicly available on Kaggle. The dataset can be accessed [here](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification).
+
+This dataset consists of 1,000 audio tracks categorized into 10 music genres. It is commonly used for music genre classification tasks.
+
+For more information on how to use this dataset, please refer to the Kaggle page linked above.
 
 ## Results
 
+
+
 ## Contributing
 
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome!
+
 ## License
+
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
