@@ -6,7 +6,7 @@ This repository contains the code and resources for the study on **Music Genre C
 ## Table of Contents
 
 - [Overview](#overview)
-- [Key Features](#keyFeatures)
+- [Key Features](#keyfeatures)
 - [Dataset](#dataset)
  
 - [Results](#results)
