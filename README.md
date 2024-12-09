@@ -8,7 +8,6 @@ This repository contains the code and resources for the study on **Music Genre C
 - [Overview](#overview)
 - [Key Features](#keyfeatures)
 - [Dataset](#dataset)
- 
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
@@ -57,11 +56,6 @@ For more information on how to use this dataset, please refer to the Kaggle page
 
 3. **Genre Classification**:
    - Applied SVM classifiers (basic and optimized) to the extracted features.
-
-
-## Results
-
-
 
 
 
